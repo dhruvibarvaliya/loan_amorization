@@ -1,0 +1,36 @@
+h3{
+  display: inline-block;
+  color: black;
+  text-transform: capitalize;
+  padding: 10px;
+  margin-right: 5px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+  .main{
+    background:#484848;
+    width: 500px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 15px black;
+    display: inline-block;
+    width: 50%;
+  }
+  input{
+    border-radius: 10px;
+    height: 25px;
+    border: none;
+    box-shadow: 0px 1px 5px black;
+  }
+  button{
+    padding: 10px 15px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 5px black;
+
+  }
+  .tbl{
+    width: 50%;
+    display: inline-block;
+
+  }	
